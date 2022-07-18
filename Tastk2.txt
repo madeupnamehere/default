@@ -1,7 +1,0 @@
-Inward issue link (Blocks)
-Outward issue link (Blocks)
-Inward issue link (Duplicate)
-Outward issue link (Duplicate)
-Inward issue link (Problem/Incident)
-Inward issue link (Relates)
-Outward issue link (Relates)
